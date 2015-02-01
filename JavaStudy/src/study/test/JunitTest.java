@@ -9,6 +9,8 @@ public class JunitTest {
 	@Test
 	public void test() {
 		fail("Not yet implemented");
+		
+		System.out.println();
 	}
 
 }
